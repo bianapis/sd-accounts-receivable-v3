@@ -1,0 +1,14 @@
+{
+  "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs" : "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs",
+  "receivablesEvaluationReceivablesEvaluationServiceName" : "receivablesEvaluationReceivablesEvaluationServiceName",
+  "paymentUpdateActionTaskReference" : "ARPUATR735987",
+  "receivablesEvaluationBusinessUnitEmployeeReference" : "REBUR736807",
+  "receivablesEvaluationWorkSchedule" : "receivablesEvaluationWorkSchedule",
+  "receivablesEvaluationReceivablesEvaluationServiceDescription" : "receivablesEvaluationReceivablesEvaluationServiceDescription",
+  "paymentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "receivablesEvaluationPreconditions" : "receivablesEvaluationPreconditions",
+  "receivablesEvaluationPostconditions" : "receivablesEvaluationPostconditions",
+  "receivablesEvaluationReceivablesEvaluationServiceType" : "receivablesEvaluationReceivablesEvaluationServiceType",
+  "receivablesEvaluationReceivablesEvaluationServiceWorkProduct" : "receivablesEvaluationReceivablesEvaluationServiceWorkProduct"
+}

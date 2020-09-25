@@ -1,0 +1,16 @@
+{
+  "paymentServiceInputsandOuputs" : "paymentServiceInputsandOuputs",
+  "resolutionInitiateActionRecord" : {},
+  "businessService" : "businessService",
+  "paymentWorkSchedule" : "paymentWorkSchedule",
+  "resolutionInitiateActionReference" : "RIAR709849",
+  "paymentServiceName" : "paymentServiceName",
+  "resolutionInstanceReference" : "RIR767500",
+  "paymentPostconditions" : "paymentPostconditions",
+  "paymentServiceWorkProduct" : "paymentServiceWorkProduct",
+  "paymentPreconditions" : "paymentPreconditions",
+  "paymentBusinessUnitEmployeeReference" : "ARPBUR706368",
+  "paymentServiceType" : "paymentServiceType",
+  "paymentServiceDescription" : "paymentServiceDescription",
+  "resolutionInstanceStatus" : "resolutionInstanceStatus"
+}

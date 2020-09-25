@@ -1,0 +1,15 @@
+{
+  "resolutionServiceName" : "resolutionServiceName",
+  "businessService" : "businessService",
+  "resolutionBusinessUnitEmployeeReference" : "RBUR761086",
+  "resolutionPostconditions" : "resolutionPostconditions",
+  "resolutionServiceWorkProduct" : "resolutionServiceWorkProduct",
+  "resolutionServiceInputsandOuputs" : "resolutionServiceInputsandOuputs",
+  "bQCustomerNegotiationUpdateActionTaskReference" : "BCNUATR792765",
+  "resolutionServiceType" : "resolutionServiceType",
+  "updateResponseRecord" : {},
+  "resolutionWorkSchedule" : "resolutionWorkSchedule",
+  "bQCustomerNegotiationUpdateActionTaskRecord" : {},
+  "resolutionServiceDescription" : "resolutionServiceDescription",
+  "resolutionPreconditions" : "resolutionPreconditions"
+}

@@ -1,0 +1,21 @@
+{
+  "accountsReceivableConfigurationActionTaskReference" : "SCATR765419",
+  "accountsReceivableServiceConfigurationRecord" : {
+    "accountsReceivableServiceSubscription" : {
+      "accountsReceivableServiceSubscriberAccessProfile" : "accountsReceivableServiceSubscriberAccessProfile",
+      "accountsReceivableServiceSubscriberReference" : "756221"
+    },
+    "accountsReceivableServiceAgreement" : {
+      "accountsReceivableServiceAgreementReference" : "721156",
+      "accountsReceivableServiceUserReference" : "733696",
+      "accountsReceivableServiceAgreementTermsandConditions" : "accountsReceivableServiceAgreementTermsandConditions"
+    },
+    "accountsReceivableServiceConfigurationSettingDescription" : "accountsReceivableServiceConfigurationSettingDescription",
+    "accountsReceivableServiceStatus" : "accountsReceivableServiceStatus",
+    "accountsReceivableServiceConfigurationSetup" : {
+      "accountsReceivableServiceConfigurationParameter" : "accountsReceivableServiceConfigurationParameter"
+    }
+  },
+  "accountsReceivableServicingSessionStatus" : "accountsReceivableServicingSessionStatus",
+  "accountsReceivableConfigurationActionTaskRecord" : {}
+}

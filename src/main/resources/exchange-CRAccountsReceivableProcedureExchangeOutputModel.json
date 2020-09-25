@@ -1,0 +1,10 @@
+{
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "accountsReceivableProcedureExchangeActionTaskRecord" : {},
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "accountsReceivableProcedureExchangeActionTaskReference" : "ARPEATR704088",
+  "accountsReceivableProcedureExchangeActionResponse" : "accountsReceivableProcedureExchangeActionResponse",
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus"
+}

@@ -1,0 +1,15 @@
+{
+  "customerNegotiationBusinessUnitEmployeeReference" : "CNBUR727226",
+  "customerNegotiationPaymentNegotationServiceType" : "customerNegotiationPaymentNegotationServiceType",
+  "receivablesEvaluationInitiateActionRecord" : {},
+  "paymentNegotation" : "paymentNegotation",
+  "receivablesEvaluationInstanceReference" : "REIR710437",
+  "customerNegotiationPaymentNegotationServiceWorkProduct" : "customerNegotiationPaymentNegotationServiceWorkProduct",
+  "customerNegotiationPostconditions" : "customerNegotiationPostconditions",
+  "customerNegotiationPreconditions" : "customerNegotiationPreconditions",
+  "customerNegotiationWorkSchedule" : "customerNegotiationWorkSchedule",
+  "receivablesEvaluationInitiateActionReference" : "REIAR788087",
+  "customerNegotiationPaymentNegotationServiceDescription" : "customerNegotiationPaymentNegotationServiceDescription",
+  "customerNegotiationPaymentNegotationServiceInputsandOuputs" : "customerNegotiationPaymentNegotationServiceInputsandOuputs",
+  "receivablesEvaluationInstanceStatus" : "receivablesEvaluationInstanceStatus"
+}

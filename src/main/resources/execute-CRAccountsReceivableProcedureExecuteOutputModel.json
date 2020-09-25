@@ -1,0 +1,11 @@
+{
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "executeRecordReference" : "ERR724704",
+  "executeResponseRecord" : {},
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "accountsReceivableProcedureExecuteActionTaskReference" : "ARPEATR746604",
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus",
+  "accountsReceivableProcedureExecuteActionTaskRecord" : {}
+}

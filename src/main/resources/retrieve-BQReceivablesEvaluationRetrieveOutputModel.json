@@ -1,0 +1,26 @@
+{
+  "customerNegotiationBusinessUnitEmployeeReference" : "CNBUR793747",
+  "customerNegotiationPaymentNegotationServiceType" : "customerNegotiationPaymentNegotationServiceType",
+  "paymentNegotation" : "paymentNegotation",
+  "receivablesEvaluationInstanceAnalysis" : {
+    "receivablesEvaluationInstanceAnalysisReportType" : "receivablesEvaluationInstanceAnalysisReportType",
+    "receivablesEvaluationInstanceAnalysisParameters" : "receivablesEvaluationInstanceAnalysisParameters",
+    "receivablesEvaluationInstanceAnalysisRecord" : {},
+    "receivablesEvaluationInstanceAnalysisReport" : {}
+  },
+  "customerNegotiationPaymentNegotationServiceWorkProduct" : "customerNegotiationPaymentNegotationServiceWorkProduct",
+  "receivablesEvaluationRetrieveActionTaskRecord" : {},
+  "customerNegotiationPostconditions" : "customerNegotiationPostconditions",
+  "customerNegotiationPreconditions" : "customerNegotiationPreconditions",
+  "customerNegotiationWorkSchedule" : "customerNegotiationWorkSchedule",
+  "receivablesEvaluationRetrieveActionResponse" : "receivablesEvaluationRetrieveActionResponse",
+  "customerNegotiationPaymentNegotationServiceDescription" : "customerNegotiationPaymentNegotationServiceDescription",
+  "customerNegotiationPaymentNegotationServiceInputsandOuputs" : "customerNegotiationPaymentNegotationServiceInputsandOuputs",
+  "receivablesEvaluationRetrieveActionTaskReference" : "RERATR782625",
+  "receivablesEvaluationInstanceReport" : {
+    "receivablesEvaluationInstanceReportParameters" : "receivablesEvaluationInstanceReportParameters",
+    "receivablesEvaluationInstanceReportRecord" : {},
+    "receivablesEvaluationInstanceReportType" : "receivablesEvaluationInstanceReportType",
+    "receivablesEvaluationInstanceReport" : {}
+  }
+}

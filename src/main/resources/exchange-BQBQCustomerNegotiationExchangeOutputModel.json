@@ -1,0 +1,16 @@
+{
+  "resolutionServiceName" : "resolutionServiceName",
+  "businessService" : "businessService",
+  "resolutionBusinessUnitEmployeeReference" : "RBUR706743",
+  "bQCustomerNegotiationExchangeActionResponse" : "bQCustomerNegotiationExchangeActionResponse",
+  "resolutionPostconditions" : "resolutionPostconditions",
+  "resolutionServiceWorkProduct" : "resolutionServiceWorkProduct",
+  "bQCustomerNegotiationExchangeActionTaskRecord" : {},
+  "resolutionServiceInputsandOuputs" : "resolutionServiceInputsandOuputs",
+  "resolutionServiceType" : "resolutionServiceType",
+  "bQCustomerNegotiationExchangeActionTaskReference" : "BCNEATR710774",
+  "resolutionWorkSchedule" : "resolutionWorkSchedule",
+  "resolutionServiceDescription" : "resolutionServiceDescription",
+  "resolutionPreconditions" : "resolutionPreconditions",
+  "bQCustomerNegotiationInstanceStatus" : "bQCustomerNegotiationInstanceStatus"
+}

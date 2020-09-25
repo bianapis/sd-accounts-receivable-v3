@@ -1,0 +1,15 @@
+{
+  "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs" : "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs",
+  "receivablesEvaluationWorkSchedule" : "receivablesEvaluationWorkSchedule",
+  "receivablesEvaluationReceivablesEvaluationServiceDescription" : "receivablesEvaluationReceivablesEvaluationServiceDescription",
+  "receivablesEvaluationPreconditions" : "receivablesEvaluationPreconditions",
+  "receivablesEvaluationPostconditions" : "receivablesEvaluationPostconditions",
+  "paymentInstanceReference" : "ARPIR726300",
+  "paymentInitiateActionRecord" : {},
+  "receivablesEvaluationReceivablesEvaluationServiceName" : "receivablesEvaluationReceivablesEvaluationServiceName",
+  "receivablesEvaluationBusinessUnitEmployeeReference" : "REBUR723616",
+  "receivablesEvaluationReceivablesEvaluationServiceType" : "receivablesEvaluationReceivablesEvaluationServiceType",
+  "receivablesEvaluationReceivablesEvaluationServiceWorkProduct" : "receivablesEvaluationReceivablesEvaluationServiceWorkProduct",
+  "paymentInitiateActionReference" : "ARPIAR772376",
+  "paymentInstanceStatus" : "paymentInstanceStatus"
+}

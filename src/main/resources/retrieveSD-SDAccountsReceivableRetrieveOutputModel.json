@@ -1,0 +1,39 @@
+{
+  "accountsReceivableRetrieveActionTaskRecord" : {},
+  "accountsReceivableRetrieveActionTaskReference" : "SRATR795161",
+  "accountsReceivableRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "accountsReceivableActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "accountsReceivablePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "accountsReceivableRetrieveActionResponse" : "accountsReceivableRetrieveActionResponse",
+  "accountsReceivableOfferedService" : {
+    "accountsReceivableServiceReference" : "776158",
+    "accountsReceivableServiceRecord" : {
+      "accountsReceivableServiceType" : "accountsReceivableServiceType",
+      "accountsReceivableServiceSchedule" : "accountsReceivableServiceSchedule",
+      "accountsReceivableServiceVersion" : "accountsReceivableServiceVersion",
+      "accountsReceivableServiceDescription" : "accountsReceivableServiceDescription",
+      "accountsReceivableServicePoliciesandGuidelines" : {
+        "accountsReceivableServicePricingandTerms" : "accountsReceivableServicePricingandTerms",
+        "accountsReceivableServiceEligibility" : "accountsReceivableServiceEligibility",
+        "accountsReceivableServiceIntendedUses" : "accountsReceivableServiceIntendedUses"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "updateResponseRecord" : {},
+  "accountsReceivableProcedureUpdateActionTaskRecord" : {},
+  "accountsReceivableProcedureUpdateActionTaskReference" : "ARPUATR780472",
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus"
+}

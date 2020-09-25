@@ -1,0 +1,26 @@
+{
+  "paymentRetrieveActionResponse" : "paymentRetrieveActionResponse",
+  "customerNegotiationBusinessUnitEmployeeReference" : "CNBUR734075",
+  "paymentRetrieveActionTaskReference" : "ARPRATR706089",
+  "customerNegotiationPaymentNegotationServiceType" : "customerNegotiationPaymentNegotationServiceType",
+  "paymentRetrieveActionTaskRecord" : {},
+  "paymentNegotation" : "paymentNegotation",
+  "customerNegotiationPaymentNegotationServiceWorkProduct" : "customerNegotiationPaymentNegotationServiceWorkProduct",
+  "paymentInstanceAnalysis" : {
+    "paymentInstanceAnalysisReport" : {},
+    "paymentInstanceAnalysisParameters" : "paymentInstanceAnalysisParameters",
+    "paymentInstanceAnalysisReportType" : "paymentInstanceAnalysisReportType",
+    "paymentInstanceAnalysisRecord" : {}
+  },
+  "customerNegotiationPostconditions" : "customerNegotiationPostconditions",
+  "customerNegotiationPreconditions" : "customerNegotiationPreconditions",
+  "customerNegotiationWorkSchedule" : "customerNegotiationWorkSchedule",
+  "customerNegotiationPaymentNegotationServiceDescription" : "customerNegotiationPaymentNegotationServiceDescription",
+  "customerNegotiationPaymentNegotationServiceInputsandOuputs" : "customerNegotiationPaymentNegotationServiceInputsandOuputs",
+  "paymentInstanceReport" : {
+    "paymentInstanceReportParameters" : "paymentInstanceReportParameters",
+    "paymentInstanceReportType" : "paymentInstanceReportType",
+    "paymentInstanceReportRecord" : {},
+    "paymentInstanceReport" : {}
+  }
+}

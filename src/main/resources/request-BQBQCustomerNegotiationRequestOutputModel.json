@@ -1,0 +1,16 @@
+{
+  "paymentServiceInputsandOuputs" : "paymentServiceInputsandOuputs",
+  "bQCustomerNegotiationRequestRecordReference" : "BCNRRR700503",
+  "businessService" : "businessService",
+  "paymentWorkSchedule" : "paymentWorkSchedule",
+  "paymentServiceName" : "paymentServiceName",
+  "paymentPostconditions" : "paymentPostconditions",
+  "paymentServiceWorkProduct" : "paymentServiceWorkProduct",
+  "requestResponseRecord" : {},
+  "bQCustomerNegotiationRequestActionTaskRecord" : {},
+  "paymentPreconditions" : "paymentPreconditions",
+  "bQCustomerNegotiationRequestActionTaskReference" : "BCNRATR708878",
+  "paymentBusinessUnitEmployeeReference" : "ARPBUR791846",
+  "paymentServiceType" : "paymentServiceType",
+  "paymentServiceDescription" : "paymentServiceDescription"
+}

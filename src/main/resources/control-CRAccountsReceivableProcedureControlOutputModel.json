@@ -1,0 +1,10 @@
+{
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "accountsReceivableProcedureControlActionTaskReference" : "ARPCATR794030",
+  "accountsReceivableProcedureControlActionResponse" : "accountsReceivableProcedureControlActionResponse",
+  "accountsReceivableProcedureControlActionTaskRecord" : {},
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus"
+}

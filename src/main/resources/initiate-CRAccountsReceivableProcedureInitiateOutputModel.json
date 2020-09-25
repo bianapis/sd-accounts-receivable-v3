@@ -1,0 +1,11 @@
+{
+  "accountsReceivableProcedureInitiateActionReference" : "ARPIAR764772",
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "accountsReceivableProcedureInstanceReference" : "ARPIR733771",
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "accountsReceivableProcedureInstanceStatus" : "accountsReceivableProcedureInstanceStatus",
+  "accountsReceivableProcedureInitiateActionRecord" : {},
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus"
+}

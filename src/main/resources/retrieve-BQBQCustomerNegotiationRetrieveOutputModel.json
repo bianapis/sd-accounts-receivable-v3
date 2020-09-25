@@ -1,0 +1,27 @@
+{
+  "paymentServiceInputsandOuputs" : "paymentServiceInputsandOuputs",
+  "businessService" : "businessService",
+  "paymentWorkSchedule" : "paymentWorkSchedule",
+  "bQCustomerNegotiationInstanceAnalysis" : {
+    "bQCustomerNegotiationInstanceAnalysisParameters" : "bQCustomerNegotiationInstanceAnalysisParameters",
+    "bQCustomerNegotiationInstanceAnalysisRecord" : {},
+    "bQCustomerNegotiationInstanceAnalysisReport" : {},
+    "bQCustomerNegotiationInstanceAnalysisReportType" : "bQCustomerNegotiationInstanceAnalysisReportType"
+  },
+  "paymentServiceName" : "paymentServiceName",
+  "paymentPostconditions" : "paymentPostconditions",
+  "paymentServiceWorkProduct" : "paymentServiceWorkProduct",
+  "bQCustomerNegotiationRetrieveActionTaskReference" : "BCNRATR724878",
+  "paymentPreconditions" : "paymentPreconditions",
+  "bQCustomerNegotiationRetrieveActionResponse" : "bQCustomerNegotiationRetrieveActionResponse",
+  "paymentBusinessUnitEmployeeReference" : "ARPBUR732201",
+  "paymentServiceType" : "paymentServiceType",
+  "bQCustomerNegotiationRetrieveActionTaskRecord" : {},
+  "paymentServiceDescription" : "paymentServiceDescription",
+  "bQCustomerNegotiationInstanceReport" : {
+    "bQCustomerNegotiationInstanceReportParameters" : "bQCustomerNegotiationInstanceReportParameters",
+    "bQCustomerNegotiationInstanceReportType" : "bQCustomerNegotiationInstanceReportType",
+    "bQCustomerNegotiationInstanceReportRecord" : {},
+    "bQCustomerNegotiationInstanceReport" : {}
+  }
+}

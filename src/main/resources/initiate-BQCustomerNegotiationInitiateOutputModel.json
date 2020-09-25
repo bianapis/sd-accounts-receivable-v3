@@ -1,0 +1,16 @@
+{
+  "resolutionServiceName" : "resolutionServiceName",
+  "businessService" : "businessService",
+  "resolutionBusinessUnitEmployeeReference" : "RBUR721878",
+  "resolutionPostconditions" : "resolutionPostconditions",
+  "resolutionServiceWorkProduct" : "resolutionServiceWorkProduct",
+  "resolutionServiceInputsandOuputs" : "resolutionServiceInputsandOuputs",
+  "resolutionServiceType" : "resolutionServiceType",
+  "customerNegotiationInstanceReference" : "CNIR718946",
+  "customerNegotiationInitiateActionRecord" : {},
+  "resolutionWorkSchedule" : "resolutionWorkSchedule",
+  "customerNegotiationInitiateActionReference" : "CNIAR747592",
+  "resolutionServiceDescription" : "resolutionServiceDescription",
+  "resolutionPreconditions" : "resolutionPreconditions",
+  "customerNegotiationInstanceStatus" : "customerNegotiationInstanceStatus"
+}

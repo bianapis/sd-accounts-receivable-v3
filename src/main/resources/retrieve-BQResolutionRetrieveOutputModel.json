@@ -1,0 +1,26 @@
+{
+  "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs" : "receivablesEvaluationReceivablesEvaluationServiceInputsandOuputs",
+  "resolutionRetrieveActionTaskRecord" : {},
+  "resolutionInstanceAnalysis" : {
+    "resolutionInstanceAnalysisReport" : {},
+    "resolutionInstanceAnalysisRecord" : {},
+    "resolutionInstanceAnalysisParameters" : "resolutionInstanceAnalysisParameters",
+    "resolutionInstanceAnalysisReportType" : "resolutionInstanceAnalysisReportType"
+  },
+  "receivablesEvaluationWorkSchedule" : "receivablesEvaluationWorkSchedule",
+  "receivablesEvaluationReceivablesEvaluationServiceDescription" : "receivablesEvaluationReceivablesEvaluationServiceDescription",
+  "receivablesEvaluationPreconditions" : "receivablesEvaluationPreconditions",
+  "receivablesEvaluationPostconditions" : "receivablesEvaluationPostconditions",
+  "resolutionRetrieveActionResponse" : "resolutionRetrieveActionResponse",
+  "receivablesEvaluationReceivablesEvaluationServiceName" : "receivablesEvaluationReceivablesEvaluationServiceName",
+  "receivablesEvaluationBusinessUnitEmployeeReference" : "REBUR779253",
+  "receivablesEvaluationReceivablesEvaluationServiceType" : "receivablesEvaluationReceivablesEvaluationServiceType",
+  "receivablesEvaluationReceivablesEvaluationServiceWorkProduct" : "receivablesEvaluationReceivablesEvaluationServiceWorkProduct",
+  "resolutionRetrieveActionTaskReference" : "RRATR745243",
+  "resolutionInstanceReport" : {
+    "resolutionInstanceReportType" : "resolutionInstanceReportType",
+    "resolutionInstanceReportRecord" : {},
+    "resolutionInstanceReportParameters" : "resolutionInstanceReportParameters",
+    "resolutionInstanceReport" : {}
+  }
+}

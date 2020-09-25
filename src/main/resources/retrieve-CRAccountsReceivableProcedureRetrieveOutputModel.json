@@ -1,0 +1,34 @@
+{
+  "accountsReceivableProcedureSchedule" : "accountsReceivableProcedureSchedule",
+  "accountsReceivableProcedureCustomerReference" : "ARPCR735233",
+  "accountsReceivableProcedureProductandServiceInstance" : "accountsReceivableProcedureProductandServiceInstance",
+  "accountsReceivableProcedureServiceType" : "accountsReceivableProcedureServiceType",
+  "accountsReceivableProcedureRetrieveActionTaskRecord" : {},
+  "accountsReceivableProcedureInstanceAnalysis" : {
+    "accountsReceivableProcedureInstanceAnalysisData" : "accountsReceivableProcedureInstanceAnalysisData",
+    "accountsReceivableProcedureInstanceAnalysisReport" : {},
+    "accountsReceivableProcedureInstanceAnalysisReportType" : "accountsReceivableProcedureInstanceAnalysisReportType"
+  },
+  "accountsReceivableProcedureTransactionType" : "accountsReceivableProcedureTransactionType",
+  "accountsReceivableProcedureRequest" : "accountsReceivableProcedureRequest",
+  "accountsReceivableProcedureStatus" : "accountsReceivableProcedureStatus",
+  "accountsReceivableProcedureServiceProviderSchedule" : "accountsReceivableProcedureServiceProviderSchedule",
+  "accountsReceivableProcedureEmployeeReference" : "ARPER793787",
+  "accountsReceivableProcedureParameterType" : "accountsReceivableProcedureParameterType",
+  "accountsReceivableProcedureSelectedOption" : "accountsReceivableProcedureSelectedOption",
+  "accountsReceivableProcedureType" : "accountsReceivableProcedureType",
+  "accountsReceivableProcedureCustomerAgreementReference" : "ARPCAR737386",
+  "accountsReceivableProcedureInstanceReportRecord" : {
+    "accountsReceivableProcedureInstanceReportData" : "accountsReceivableProcedureInstanceReportData",
+    "accountsReceivableProcedureInstanceReport" : {},
+    "accountsReceivableProcedureInstanceReportType" : "accountsReceivableProcedureInstanceReportType"
+  },
+  "accountsReceivableProcedureBusinessUnitReference" : "ARPBUR787777",
+  "accountsReceivableProcedureFinancialFacilityReference" : "ARPFFR737273",
+  "accountsReceivableProcedureRetrieveActionTaskReference" : "ARPRATR735638",
+  "accountsReceivableProcedureProductandServiceType" : "accountsReceivableProcedureProductandServiceType",
+  "accountsReceivableProcedureFinancialTransactionArrangement" : "accountsReceivableProcedureFinancialTransactionArrangement",
+  "accountsReceivableProcedureReference" : "ARPR782838",
+  "accountsReceivableProcedureServiceProviderReference" : "ARPSR753935",
+  "accountsReceivableProcedureRetrieveActionResponse" : "accountsReceivableProcedureRetrieveActionResponse"
+}
